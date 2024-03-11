@@ -98,13 +98,13 @@ This project is a web application built using Django, consisting of two main par
 
 ##Demo
 - **Home page**
-  (Home_Page.png)
+  ![](Home_Page.png)
 
 - **Event page**
-  (Event_Page.png)
+  ![](Event_Page.png)
 
 - **Checkout page**
-  (Checkout_Page.png)
+  ![](Checkout_Page.png)
 
 ## How to Run
 1. Clone the repository: `git clone github.com/JsFn99/weekAndfun`
