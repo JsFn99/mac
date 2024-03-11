@@ -96,6 +96,16 @@ This project is a web application built using Django, consisting of two main par
 - **send_order_confirmation_email**
   - Sends an order confirmation email to the customer.
 
+##Demo
+- **Home page**
+  (Home_Page.png)
+
+- **Event page**
+  (Event_Page.png)
+
+- **Checkout page**
+  (Checkout_Page.png)
+
 ## How to Run
 1. Clone the repository: `git clone github.com/JsFn99/weekAndfun`
 2. Install the required dependencies: `pip install -r requirements.txt`
