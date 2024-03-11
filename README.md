@@ -96,14 +96,17 @@ This project is a web application built using Django, consisting of two main par
 - **send_order_confirmation_email**
   - Sends an order confirmation email to the customer.
 
-##Demo
+## Demo
 - **Home page**
+  
   ![](Home_Page.png)
 
 - **Event page**
+  
   ![](Event_Page.png)
 
 - **Checkout page**
+  
   ![](Checkout_Page.png)
 
 ## How to Run
